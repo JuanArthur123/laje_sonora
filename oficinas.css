@@ -35,7 +35,7 @@ h1, h2, h3 {
   padding: 40px 20px;
 }
 
-/* Topo */
+
 
 .topo {
   max-width: 1000px;
@@ -71,7 +71,7 @@ h1, h2, h3 {
   border-bottom-color: var(--tinta);
 }
 
-/* Rodapé */
+
 
 .rodape {
   border-top: 1px solid var(--borda);
@@ -97,7 +97,7 @@ h1, h2, h3 {
   margin-bottom: 8px;
 }
 
-/* Cores das fotos */
+
 
 .foto {
   background-color: var(--terracota);
